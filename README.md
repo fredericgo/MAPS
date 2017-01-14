@@ -40,3 +40,4 @@ We recommend you to install libigl using git via:
 
 If you have installed libigl at `/path/to/libigl/` then a good place to clone
 this library is `/path/to/libigl-example-project/`.
+# MAPS
